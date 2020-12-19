@@ -1,5 +1,4 @@
-# BTtalk-joomla
-### www.bttalk.pl
+## www.bttalk.pl
 
 ## General info
 Website in Joomla! Language school website
