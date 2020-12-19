@@ -11,5 +11,3 @@ Project is created with:
 * CSS
 * Joomla! Based on: Helix Ultimate
 
-### Preview:
-![preview](./images-view/preview.png)
