@@ -3,7 +3,7 @@
 www.bttalk.pl
 
 ### General info:
-Language school website 2020
+2020 | Language school website
 	
 ### Technologies:
 Project is created with:
