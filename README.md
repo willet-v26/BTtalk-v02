@@ -9,5 +9,5 @@ www.bttalk.pl
 Project is created with:
 * Html
 * CSS
-* Joomla! Based on: Helix Ultimate
+* Joomla! Based on: Helix Ultimate www.joomshaper.com/joomla-templates/helixultimate
 
